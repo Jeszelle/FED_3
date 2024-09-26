@@ -597,12 +597,12 @@ section:nth-of-type(8) article p {
 
 section:nth-of-type(8) div {
     display: grid;
-    grid-template-columns: 1fr 1fr; /* Two columns */
-    grid-template-rows: auto auto;  /* Two rows for stacking */
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
     grid-template-areas: 
         "img1 img2"
-        "img3 img2"; /* img1 and img3 in first column, img2 in second */
-    justify-items: center; /* Center items horizontally */
+        "img3 img2"; 
+    justify-items: center;
     gap: 3vh;
     padding: 4vh;
 }
