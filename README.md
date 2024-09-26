@@ -184,12 +184,10 @@ Ik had deze week nog niet veel CSS, maar volgens de studenten assistenten zag he
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+| Thomas     | Braham         | Aya    | Joy        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  | Hoe maken we vormen? Met vector of images?  | Hoe zit een Carroussel in elkaar?             | Kloppen onze breakdownschetsen?    | Wat is de beste manier om een video te embedden?    |
+  | Hoe maak je een progressiebalk bij een carroussel? | Hoe maak je een hamburgermenu met animatie zonder images te gebruiken? | Waar precies moet je div gebruiken en waar een class? | Is onze HTML zo oké & correct? |
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
