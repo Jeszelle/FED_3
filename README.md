@@ -184,19 +184,16 @@ Ik had deze week nog niet veel CSS, maar volgens de studenten assistenten zag he
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-| Thomas     | Braham         | Aya    | Joy        |
+| Thomas      | Braham         | Aya   | Joy        |
   | ---            | ---                | ---          | ---              |
-  | Hoe maken we vormen? Met vector of images?  | Hoe zit een Carroussel in elkaar?             | Kloppen onze breakdownschetsen?    | Wat is de beste manier om een video te embedden?    |
-  | Hoe maak je een progressiebalk bij een carroussel? | Hoe maak je een hamburgermenu met animatie zonder images te gebruiken? | Waar precies moet je div gebruiken en waar een class? | Is onze HTML zo oké & correct? |
+  | Hoe kan ik het best die gradients doen van de afbeeldingen?  | Moet de carousel direct overeen komen met hoe de website er daadwerkelijk uitziet?             | en ik dit    | Wat vind je van het plan voor de rest van mijn werk?    |
+  | Wat is de beste manier om vormen te maken? Met SVG, of met Border Radius? | Hoe los ik alle problemen met rescalability op? | nog een punt | dit wil ik zeker |
+  | ...            | ...                | ...          | ...              |
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+Deze feedback sessie heb ik helaas niet bij kunnen wonen vanwege ziekte, wel heb ik mijn klasgenoten mijn vragen doorgegeven en hierdoor heb ik nog verder kunnen werken. 
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
+- ik had gevraagd als alle details van de carousel moest worden verwerkt in onze pagina, daarop heb ik de antwoord gekregen dat het wel waard is om er tijd en moeite in te steken maar als het heel ingewikkeld wordt hoeft het geen identieke kopie te zijn. 
 </details>
 
 
